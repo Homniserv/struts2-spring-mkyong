@@ -11,11 +11,10 @@
 		<action name="userAction" class="com.mkyong.user.action.UserAction">
 			<result name="success">pages/user.jsp</result>
 		</action>
-
+		<!-- case 1 -->
 		<action name="userSpringAction" class="userSpringAction">
 			<result name="success">pages/user.jsp</result>
 		</action>
-
 	</package>
 
 </struts>

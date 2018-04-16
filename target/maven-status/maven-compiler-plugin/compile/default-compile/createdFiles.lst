@@ -1,0 +1,4 @@
+com\mkyong\user\action\UserSpringAction.class
+com\mkyong\user\bo\UserBo.class
+com\mkyong\user\action\UserAction.class
+com\mkyong\user\bo\impl\UserBoImpl.class
